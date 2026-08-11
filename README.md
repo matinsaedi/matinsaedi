@@ -1,4 +1,4 @@
-#👋 Hi, I'm Matin Saedi
+# 👋 Hi, I'm Matin Saedi
 
 I'm a **Master's student in Computer Science at York University** with a background in Electrical Engineering, focused on **Machine Learning, Deep Learning, Computer Vision, and ML Engineering**.
 
