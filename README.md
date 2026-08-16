@@ -6,9 +6,9 @@ My interests lie in building practical ML systems and tackling research problems
 
 ## Featured Projects
 
-* **[Hockey Homography Estimation](https://github.com/matinsaedi/hockey-homography-estimation)** — Computer vision pipeline for rink registration using image retrieval, feature matching, RANSAC, and ECC refinement.
-* **[NAFNet Image Restoration](https://github.com/matinsaedi/Reproducibility-Challenge-Image-Restoration)** — Reproduction and evaluation of a deep image restoration model using PyTorch.
-* **[EEG Motor Imagery Classification](https://github.com/matinsaedi/bci-motor-imagery-eeg-classification)** — Signal-processing and machine-learning pipeline for EEG classification.
+* **[Hockey Homography Estimation](https://github.com/matinsaedi/hockey-homography-estimation)** - Computer vision pipeline for rink registration using image retrieval, feature matching, RANSAC, and ECC refinement.
+* **[NAFNet Image Restoration](https://github.com/matinsaedi/Reproducibility-Challenge-Image-Restoration)** - Reproduction and evaluation of a deep image restoration model using PyTorch.
+* **[EEG Motor Imagery Classification](https://github.com/matinsaedi/bci-motor-imagery-eeg-classification)** - Signal-processing and machine-learning pipeline for EEG classification.
 
 ## Research
 
