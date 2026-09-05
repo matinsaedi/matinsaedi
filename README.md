@@ -16,9 +16,7 @@ Currently working on **training-free compression of 3D Gaussian Splatting (3DGS)
 
 ## Technical Skills
 
-`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `OpenCV` · `MATLAB` · `Git`
-
-Also familiar with **SQL, Docker, FastAPI, PostgreSQL, and AWS**.
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `OpenCV` · `MATLAB` · `SQL` . `Docker` . `FastAPI` . `AWS`
 
 ## Connect
 
