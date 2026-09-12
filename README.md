@@ -27,6 +27,12 @@ Currently working on **training-free compression of 3D Gaussian Splatting (3DGS)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
+# Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,matlab,docker,fastapi,aws" />
+</p>
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/matin-saedi/)
