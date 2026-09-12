@@ -12,7 +12,7 @@ My interests lie in building practical ML systems and tackling research problems
 
 ## Research
 
-Currently working on **training-free compression of 3D Gaussian Splatting (3DGS)** using graph signal processing and learned methods.
+Currently working on **post-training compression of 3D Gaussian Splatting (3DGS)** using graph signal processing and learned methods.
 
 ## Technical Skills
 
