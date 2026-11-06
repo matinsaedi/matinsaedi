@@ -8,13 +8,15 @@ I enjoy building practical AI systems, from developing machine learning models t
 
 * **[Mortgage Underwriting Agent](https://github.com/matinsaedi/mortgage-underwriting-agent)** – A LangGraph-based AI agent that reviews applicant documents, retrieves relevant lending rules, performs calculations, and supports evidence-based underwriting decisions.
 
+* **[TTC Delay Prediction](https://github.com/matinsaedi/toronto-transit-ml-platform)** – An end-to-end machine learning system for predicting delays in Toronto's public transit network.
+
 * **[Hockey Homography Estimation](https://github.com/matinsaedi/hockey-homography-estimation)** – A computer vision pipeline for rink registration using image retrieval, feature matching, RANSAC, and ECC refinement.
 
 * **[NAFNet Image Restoration](https://github.com/matinsaedi/Reproducibility-Challenge-Image-Restoration)** – Reproduction and evaluation of a deep image restoration model using PyTorch.
 
 * **[EEG Motor Imagery Classification](https://github.com/matinsaedi/bci-motor-imagery-eeg-classification)** – A signal-processing and machine-learning pipeline for EEG classification.
 
-* **TTC Delay Prediction** – An end-to-end machine learning system for predicting delays in Toronto's public transit network.
+
 
 ## 🔬 Research
 
