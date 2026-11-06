@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matin Saedi
 
-I'm an **M.Sc. student in Computer Science at York University** with a background in Electrical Engineering. My work focuses on **AI/ML engineering, machine learning, deep learning, and computer vision**.
+I'm an **M.Sc. student in Computer Science at York University** with a background in Electrical Engineering. My work focuses on **AI/ML engineering, machine learning, signal processing, and computer vision**.
 
 I enjoy building practical AI systems, from developing machine learning models to creating LLM-based applications and end-to-end software solutions. I primarily work with Python and modern machine learning frameworks.
 
